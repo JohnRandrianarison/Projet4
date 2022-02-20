@@ -514,6 +514,7 @@ button {
   font-size: 22px;
   margin: auto;
   width: 65%;
+  height: 120px;
 }
 
 .quote {
@@ -786,6 +787,10 @@ p {
 }
 
 .social {
+  max-width: 400px;
+  margin: auto auto auto auto;
+}
+.social_twitter {
   max-width: 400px;
   margin: auto auto auto auto;
 }
